@@ -1,0 +1,1 @@
+include control_puppet_agent
