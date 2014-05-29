@@ -1,10 +1,10 @@
 {
   "author": "Martyn Taylor",
   "checksums": {
-    "manifests/control.pp": "f3b93fe45029e2adf712389f58b6d01f",
+    "manifests/control.pp": "78811f195485be2d808ff89415f6b83d",
     "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
-    "manifests/params.pp": "63195af49aba9b30c3056f6eb5055f8c",
-    "manifests/init.pp": "6d8acf97548060d4c7d522142123caca",
+    "manifests/params.pp": "9bda1bcf0da156a2a5fe8618a6ef1e47",
+    "manifests/init.pp": "f6541831e3f763787002fce5d674aff3",
     "Modulefile": "198c07ee555d6ae7b993088e81c3d775",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "tests/init.pp": "cd5f23d2866e5e2701c551d9d5fcef38",

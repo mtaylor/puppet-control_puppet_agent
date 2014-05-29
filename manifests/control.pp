@@ -4,7 +4,7 @@ class puppet::agent::service::control {
   include ::puppet::agent::service::control::params
   include ::puppet::params
 
-  if $::puppet::enabled {
+  if $::puppet::agent::service::control::enabled {
     include ::puppet::agent::service
   }
   else {
